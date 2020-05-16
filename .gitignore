@@ -1,0 +1,8 @@
+*.suo
+*.ide-shm
+*.ide-wal
+ShoppingCart.Bll/bin/
+ShoppingCart.Bll/obj/Debug/netstandard2.0/ShoppingCart.Bll.AssemblyInfo.cs
+ShoppingCart.Bll/obj/
+ShoppingCart.Tests/bin/
+ShoppingCart.Tests/obj/
