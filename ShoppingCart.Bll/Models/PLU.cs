@@ -2,9 +2,9 @@
 
 namespace ShoppingCart.Bll.Models
 {
-    public class PLU
+    public class Plu
     {
-        public EPluType PluType { get; set; }
+        public PluType PluType { get; set; }
         public string Name { get; set; }
         public decimal Price { get; set; }
     }

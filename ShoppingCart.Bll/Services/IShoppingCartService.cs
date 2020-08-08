@@ -5,6 +5,6 @@ namespace ShoppingCart.Bll.Services
 {
     public interface IShoppingCartService
     {
-        decimal CalculateShoppingCard(IEnumerable<PLU> cardItems);
+        decimal CalculateShoppingCart(IEnumerable<Plu> cartItems);
     }
 }
